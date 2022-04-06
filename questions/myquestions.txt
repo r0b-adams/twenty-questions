@@ -1,0 +1,21 @@
+Q:Is it a ship?
+Q:Is it flown by Han Solo?
+A:the Millenium Falcon
+Q:Is it the primary fighter craft of the Empire?
+A:a TIE Fighter
+Q:Did Luke fly one when he blew up the first Death Star?
+A:an X-Wing
+A:Slave I
+Q:Is it a person?
+Q:Speak like this, does he?
+A:Yoda
+Q:Is he a Sith Lord?
+Q:Did he seduce Anakin Skywalker to the Dark Side?
+A:The Emperor
+A:Darth Vader
+Q:Is he a scoundrel?
+A:Han Solo
+A:Luke Skywalker
+Q:Is it a massive battlestation capable of destroying a planet?
+A:the Death Star
+A:a lightsaber
